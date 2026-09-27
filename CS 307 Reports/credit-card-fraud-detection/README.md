@@ -14,7 +14,7 @@ Decision tree classifier flagging fraudulent credit card transactions under seve
 91.4% precision, 81.0% recall, 0.85 F1 on unseen test data.
 
 ## Files
-- [Notebook](credit-card-fraud-detection.ipynb) | [HTML report](https://colinpapp.github.io/UIUC-data-science-portfolio/CS%20307%20Reports/credit-card-fraud-detection/credit-card-fraud-detection.html)
+- [Notebook](credit-card-fraud-detection.ipynb) | [HTML report](credit-card-fraud-detection.html)
 
 ## Finance Applications
 The same precision-recall tradeoff drives fraud and AML transaction monitoring and credit-risk flagging, where false positives cost customer trust and false negatives cost real losses.

@@ -14,7 +14,7 @@ Calibrated random forest estimating the probability a batter swings at a given p
 0.1803 test Brier score with 73.3% accuracy; expected calibration error of 0.0319.
 
 ## Files
-- [Notebook](mlb-swing-probability.ipynb) | [HTML report](https://colinpapp.github.io/UIUC-data-science-portfolio/CS%20307%20Reports/mlb-swing-probability/mlb-swing-probability.html)
+- [Notebook](mlb-swing-probability.ipynb) | [HTML report](mlb-swing-probability.html)
 
 ## Finance Applications
 Calibrated probability models are the foundation of credit default probability (PD) estimation and any priced decision driven by a predicted likelihood.

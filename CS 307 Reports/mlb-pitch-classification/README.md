@@ -14,7 +14,7 @@ K-nearest neighbors classifier identifying pitch type (four-seam fastball, split
 98.62% test accuracy; 98.12% best cross-validated accuracy.
 
 ## Files
-- [Notebook](mlb-pitch-classification.ipynb) | [HTML report](https://colinpapp.github.io/UIUC-data-science-portfolio/CS%20307%20Reports/mlb-pitch-classification/mlb-pitch-classification.html)
+- [Notebook](mlb-pitch-classification.ipynb) | [HTML report](mlb-pitch-classification.html)
 
 ## Finance Applications
 Classifiers that map noisy high-frequency measurements to discrete states transfer directly to market-regime classification and trade-signal detection from order-book and tick data.
