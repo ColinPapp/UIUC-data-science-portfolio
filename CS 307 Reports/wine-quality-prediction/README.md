@@ -14,7 +14,7 @@ K-nearest neighbors regressor estimating wine quality scores from physicochemica
 0.46 test MAE; predictions within half a quality point on average on a 0-10 scale.
 
 ## Files
-- [Notebook](wine-quality-prediction.ipynb) | [HTML report](wine-quality-prediction.html)
+- [Notebook](wine-quality-prediction.ipynb) | [HTML report](https://colinpapp.github.io/UIUC-data-science-portfolio/CS%20307%20Reports/wine-quality-prediction/wine-quality-prediction.html)
 
 ## Finance Applications
 Nearest-neighbor logic is the statistical backbone of comparable-company analysis: valuing an asset from the observed prices of its closest peers.
