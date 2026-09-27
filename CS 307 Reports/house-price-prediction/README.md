@@ -14,7 +14,7 @@ Histogram Gradient Boosting regressor estimating home sale prices in Ames, Iowa 
 7.99% test MAPE; 93.4% of predictions within 20% of actual sale price.
 
 ## Files
-- [Notebook](house-price-prediction.ipynb) | [HTML report](house-price-prediction.html)
+- [Notebook](house-price-prediction.ipynb) | [HTML report](https://colinpapp.github.io/UIUC-data-science-portfolio/CS%20307%20Reports/house-price-prediction/house-price-prediction.html)
 
 ## Finance Applications
 Gradient boosting regressors are standard for collateral/real-asset valuation (AVMs, ABS/MBS collateral pricing) and factor-based return prediction - combining many noisy signals into one estimate.
