@@ -14,7 +14,7 @@ Nine companies generated statistically significant alpha at the 10% level: FIX, 
 
 ## Files
 - [Notebook](beta-factor-analysis.ipynb)
-- [HTML report](beta-factor-analysis.html)
+- [HTML report](https://colinpapp.github.io/UIUC-data-science-portfolio/Finance%20Projects/beta-factor-analysis/beta-factor-analysis.html)
 
 The notebook reads tickers and base market data from `IndData.xlsx` (not included).
 

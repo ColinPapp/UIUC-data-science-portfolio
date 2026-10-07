@@ -14,7 +14,7 @@ Home Depot (HD) screened as the most undervalued stock in the S&P 500: the model
 
 ## Files
 - [Notebook](pe-regression.ipynb)
-- [HTML report](pe-regression.html)
+- [HTML report](https://colinpapp.github.io/UIUC-data-science-portfolio/Finance%20Projects/pe-regression/pe-regression.html)
 
 The notebook was reconstructed from the original project PDF; it reads from `DS Project.csv` (not included).
 
