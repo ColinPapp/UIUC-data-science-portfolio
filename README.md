@@ -7,6 +7,7 @@ Each project folder contains a README, the underlying code, and a readable repor
 
 | Project | Approach | Key Result | Links |
 |---|---|---|---|
+| [PE Regression](Finance%20Projects/pe-regression/) | OLS of market cap on earnings, S&P 500 screen | Flagged Home Depot 24% undervalued; stock rose 38% the following year | [Report](https://colinpapp.github.io/UIUC-data-science-portfolio/Finance%20Projects/pe-regression/pe-regression.html) |
 | [Automated Comparable Companies Model](Finance%20Projects/automated-comps-model/) | Revenue-proximity peer screen, yfinance multiples | Ticker in, full comps workup out (PG demo: 6 comps, median EV/EBITDA 12.87x) | [Code](Finance%20Projects/automated-comps-model/automated-comps-model.py) |
 | [Beta Factor Analysis](Finance%20Projects/beta-factor-analysis/) | CAPM regression on excess returns, 70 large-cap industrials | 9 names with significant alpha; flat security market line (R²=0.04) | [Report](https://colinpapp.github.io/UIUC-data-science-portfolio/Finance%20Projects/beta-factor-analysis/beta-factor-analysis.html) |
 

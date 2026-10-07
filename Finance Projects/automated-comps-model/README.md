@@ -14,8 +14,9 @@ A working engine end to end. On Procter & Gamble, it selected CL, CLX, CHD, ENR,
 
 ## Files
 - [Model](automated-comps-model.py)
+- [Ticker universe](TickersNew.xlsx)
 
-Run it with `python automated-comps-model.py` after pointing `TICKERS_XLSX` at a spreadsheet with `Ticker`, `Revenue`, and `Category Name` columns. Calling `comparable("TICKER")` from another script returns the multiples table as a DataFrame.
+Run it with `python automated-comps-model.py`. The ticker universe spreadsheet (`Ticker`, `Revenue`, and `Category Name` columns) is included. Calling `comparable("TICKER")` from another script returns the multiples table as a DataFrame.
 
 ## Takeaways
 Automates the most repetitive part of a comps build: peer screening, multiple calculation, and benchmarking visuals in one call. The percentile-based valuation range keeps the output honest about dispersion instead of anchoring on a single multiple. The structure extends naturally to more multiples or a larger peer set.
