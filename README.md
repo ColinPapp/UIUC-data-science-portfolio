@@ -11,6 +11,12 @@ Each project folder contains a README, the underlying code, and a readable repor
 | [Automated Comparable Companies Model](Finance%20Projects/automated-comps-model/) | Revenue-proximity peer screen, yfinance multiples | Ticker in, full comps workup out (PG demo: 6 comps, median EV/EBITDA 12.87x) | [Code](Finance%20Projects/automated-comps-model/automated-comps-model.py) |
 | [Beta Factor Analysis](Finance%20Projects/beta-factor-analysis/) | CAPM regression on excess returns, 70 large-cap industrials | 9 names with significant alpha; flat security market line (R²=0.04) | [Report](https://colinpapp.github.io/UIUC-data-science-portfolio/Finance%20Projects/beta-factor-analysis/beta-factor-analysis.html) |
 
+## FIN 453 Projects
+
+| Project | Approach | Key Result | Links |
+|---|---|---|---|
+| [Estimating Corporate Credit Spreads](FIN%20453%20Projects/credit-spread-estimation/) | JAX linear regression, 3-fold CV of Linear / Expanded / Expanded + ridge | Expanded model selected, mean CV MSE 503.85 bps²; ordered split val RMSE 61.11 vs random 28.07 | [Notebook](FIN%20453%20Projects/credit-spread-estimation/credit-spread-estimation.ipynb) |
+
 ## CS 307 Reports
 
 Machine learning reports from CS307 at UIUC. Each project folder contains a README, the original notebook, and a rendered HTML report.
